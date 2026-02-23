@@ -1,6 +1,8 @@
 # dev-playground
 A playground for building and testing new ideas. Collection of small projects built for learning and exploring different technologies.
 
+![dev-playground banner](assets/chatGPTimage.png)
+
 ---
 ## About
 This repository contains multiple independent mini-projects. Each project focuses on a specific concept, technology, or implementation idea.
