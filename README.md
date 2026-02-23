@@ -3,6 +3,7 @@ A playground for building and testing new ideas. Collection of small projects bu
 
 ![dev-playground banner](assets/chatGPTimage.png)
 
+##### Banner was created by ChatGPT.
 ---
 ## About
 This repository contains multiple independent mini-projects. Each project focuses on a specific concept, technology, or implementation idea.
